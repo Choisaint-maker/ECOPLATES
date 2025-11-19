@@ -117,7 +117,7 @@ Planned enhancements:
 
 ---
 
-## 👤 Author  
+## 👤 Authors  
 **Santiago Gonzalez (Choisaint)** — Mechatronics Engineering Student 
 Personal portfolio: https://github.com/choisaint
 **Johan Hurtado** — Software Engineering Student
