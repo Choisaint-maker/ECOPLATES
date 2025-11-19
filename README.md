@@ -119,7 +119,7 @@ Planned enhancements:
 
 ## 👤 Author  
 **Santiago Gonzalez (Choisaint)** — Mechatronics Engineering Student 
-Personal portfolio: https://github.com/choisaint  
+Personal portfolio: https://github.com/choisaint
 **Johan Hurtado** — Software Engineering Student
 **David Acosta** — Electrical Engineering Student
 
