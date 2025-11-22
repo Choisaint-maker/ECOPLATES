@@ -10,7 +10,7 @@ The system integrates **Python-based control**, **Raspberry Pi Pico microcontrol
 
 ## 🔍 Overview  
 
-![SolidWorks Render](photosandvideos/RenderSolidworks.png)
+![SolidWorks Render](media/RenderSolidworks.png)
 
 Ecoplates demostrates a complete production pipeline (with the material ready; mixing paper and water in equal parts):
 
