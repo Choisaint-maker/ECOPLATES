@@ -54,6 +54,8 @@ A block diagram of the system reflects:
 - **Sensors:** End-stops / position sensors  
 - **Power:** Independent pneumatic and electronic supply  
 - **Structure:** Steel, aluminum and 3D-printed components
+---
+
    ![Electric/Control and Strengh Schematic](media/Strengh-Logical-Circuits.png)
   ![Pneumatic Schematic](media/Electropneumatic%20schematic.png)
 
