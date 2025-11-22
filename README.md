@@ -35,7 +35,8 @@ The architecture includes:
 - Pneumatic cylinders  
 - Limit switches and sensors  
 - Power system for actuators  
-- Custom mechanical structure made from recycled and machined components  
+- Custom mechanical structure made from recycled and machined components
+  ![Full Mechanical Schematic](media/FullSchematic.png)
 
 A block diagram of the system reflects:
 
@@ -52,7 +53,9 @@ A block diagram of the system reflects:
 - **Actuation:** Electro-pneumatic valves + linear cylinders  
 - **Sensors:** End-stops / position sensors  
 - **Power:** Independent pneumatic and electronic supply  
-- **Structure:** Wood, aluminum and 3D-printed components  
+- **Structure:** Steel, aluminum and 3D-printed components
+   ![Electric/Control and Strengh Schematic](media/Strengh-Logical-Circuits.png)
+  ![Pneumatic Schematic](media/Electropneumatic%20schematic.png)
 
 ---
 
